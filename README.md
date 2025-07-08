@@ -3,3 +3,5 @@ Here is My first github repository Let's Get started with Github repo
 
 
 This line was modified manullly during conflict resolutions
+
+ New line was added locallly
